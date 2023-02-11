@@ -1,5 +1,5 @@
 ## Installation
-Note: please use a node version that is 15.0.1 or higher and then run the below commands.
+Note: please use a node version that is 16.0 or higher and then run the below commands.
 
 ### `npm install`
 ### `npm start`

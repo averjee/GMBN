@@ -1,0 +1,28 @@
+h3 {
+  margin-top: 10px;
+  margin-bottom: 1px;
+}
+
+.Featured {
+  width: 100%;
+  float: left;
+  z-index: 2;
+  top: 0px;
+}
+
+.PlayButton {
+  width: 15%;
+  position: absolute;
+  top: 160px;
+  right: 150px;
+}
+
+.SearchBar, .TopBar {
+  width: 100%;
+  margin-bottom: -4px;
+}
+
+.Item{
+  width: 500px;
+  height: 200px;;
+}
